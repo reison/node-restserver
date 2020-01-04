@@ -43,4 +43,4 @@ process.env.URLDB = urlDB;
 //======================================
 
 //process.env.CLIENT_ID = process.env.CLIENT_ID || '1061092881054-27sqrf165nk38too8u461qoeie0ktsao.apps.googleusercontent.com';
-process.env.CLIENT_ID = process.env.CLIENT_ID || '1061092881054-2d8pkvhfjhs7vvs8embtllroge6p3s4v.apps.googleusercontent.com';
+process.env.CLIENT_ID = '1061092881054-2d8pkvhfjhs7vvs8embtllroge6p3s4v.apps.googleusercontent.com';
