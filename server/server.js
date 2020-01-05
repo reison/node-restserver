@@ -39,4 +39,4 @@ app.listen(process.env.PORT, () => {
     console.log('escuchando puerto: ', process.env.PORT);
 })
 
-// voy al video 139!!!
+// voy al video 152!!!
